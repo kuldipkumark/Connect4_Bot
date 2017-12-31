@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Files">
+        <file>Pics/background.png</file>
+        <file>Pics/board.png</file>
+        <file>Pics/red.png</file>
+        <file>Pics/yellow.png</file>
+    </qresource>
+    <qresource prefix="/NewFile">
+        <file>Pics/images.jpeg</file>
+        <file>Pics/New.jpg</file>
+        <file>Pics/image.jpeg</file>
+        <file>Pics/add.png</file>
+    </qresource>
+</RCC>
